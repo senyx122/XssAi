@@ -73,6 +73,15 @@ Vulnerable Parameter: search
 Payload: <img src=x onerror=alert(1)>  
 Confidence: High  
 ```
+<p align="center">
+  <img src="bug.png" width="800">
+</p>
+
+<p align="center">
+  <img src="bug1.png" width="800">
+</p>
+
+
 
 Generated exploit URL example:
 
