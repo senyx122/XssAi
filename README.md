@@ -83,9 +83,11 @@ Generated exploit URL example:
 ```
 https://example.com/?search=<img src=x onerror=alert(1)>
 ```
+
 <p align="center">
   <img src="bug.jpg" width="600">
 </p>
+
 ---
 
 ## Output
@@ -106,11 +108,13 @@ The report includes:
 * Confidence level
 * AI analysis
 * Exploit URLs
+  
+
 
 <p align="center">
   <img src="bug1.jpg" width="600">
 </p>
----
+
 
 
 
