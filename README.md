@@ -103,19 +103,5 @@ The report includes:
 
 ---
 
-## Legal Disclaimer
-
-This tool is intended for educational purposes and authorized security testing only.
-Do not use this tool against any system without explicit written permission.
-The developer is not responsible for any misuse of this software.
-
----
-
-## Author
-
-Developed by seny
-Security Researcher | Python Developer | Offensive Security Enthusiast
 
 
-* CONTRIBUTING.md
-* Badges احترافية (بدون إيموجيز)
