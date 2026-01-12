@@ -44,7 +44,7 @@ This tool is designed for educational purposes, security research, and authorize
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/XssAi.git
+git clone https://github.com/senyx122/XssAi.git
 cd XssAi
 pip install -r requirements.txt
 ```
