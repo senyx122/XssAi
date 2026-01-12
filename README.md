@@ -74,11 +74,15 @@ Payload: <img src=x onerror=alert(1)>
 Confidence: High  
 ```
 <p align="center">
-  <img src="bug.png" width="800">
+  <img src="logo.png" width="400">
 </p>
 
 <p align="center">
-  <img src="bug1.png" width="800">
+  <img src="logo.png" width="400">
+</p>
+
+<p align="center">
+  <img src="bug1.png" width="400">
 </p>
 
 
